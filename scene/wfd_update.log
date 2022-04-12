@@ -1,0 +1,1185 @@
+Exporter version: 2.93.1, Blender version: 2.93.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Caroline Jacomini\Documents\KOSMOS\CENA_WFD\tobabylon_update\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  obj_env_1
+		processing begun of material:  m_concrete
+		processing begun of material:  m_water
+		processing begun of material:  m_grass_b
+			processing texture t_floor_d
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_grass_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_grass_d
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  wfd_update.Multimaterial#0
+		num positions      :  414
+		num normals        :  414
+		num tangents       :  0
+		num uvs            :  828
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  186
+	processing begun of mesh:  obj_totem_1
+		processing begun of material:  m_metal
+			processing texture t_dirtymetal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		num positions      :  622
+		num normals        :  622
+		num tangents       :  0
+		num uvs            :  1244
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  336
+	processing begun of mesh:  art_flag_4
+		processing begun of material:  m_argflag
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVTex"
+			processing texture art_flag_arg
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_1
+		processing begun of material:  m_brazilflag
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVTex"
+			processing texture art_flag_brazil
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_2
+		processing begun of material:  m_chileflag
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVTex"
+			processing texture art_flag_chile
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_3
+		processing begun of material:  m_mexicoflag
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVTex"
+			processing texture art_flag_mexico
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_5
+		processing begun of material:  m_colombiaflag
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVTex"
+			processing texture art_flag_colombia
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_6
+		processing begun of material:  m_costaricaflag
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVTex"
+			processing texture art_flag_costarica
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_welcome
+		processing begun of material:  m_welcome
+			processing texture art_initialtotem_welcome
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_initialtotem_welcome
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_banner_1
+		processing begun of material:  m_bannerentry
+			processing texture art_banner_entry_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_entry_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_better_3
+		processing begun of material:  m_betterproduction
+			processing texture art_banners_uproom_13
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banners_uproom_13
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  art_better_2
+		processing begun of material:  m_betterlife
+			processing texture art_banners_uproom_14
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banners_uproom_14
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_better_1
+		processing begun of material:  m_betternutrition
+			processing texture art_banners_uproom_12
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banners_uproom_12
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  art_better_4
+		processing begun of material:  m_betterenv
+			processing texture art_banners_uproom_11
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banners_uproom_11
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  art_banner_3
+		processing begun of material:  m_banner_stage
+			processing texture art_banner_stage_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_stage_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_banner_2
+		processing begun of material:  m_entryauditorium
+			processing texture art_banner_bv_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_bv_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_video_1
+		processing begun of material:  m_videoleft
+			processing texture art_banner_left_stage_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_left_stage_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  art_video_3
+		processing begun of material:  m_videoright
+			processing texture art_banner_right_stage_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_right_stage_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  art_video_2
+		processing begun of material:  m_videostage
+			processing texture art_screenauditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_screenauditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  art_videoout_6
+		processing begun of material:  m_videototem
+			processing texture art_initialtotem_welcome_copy
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_initialtotem_welcome_copy
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_map_6
+		processing begun of material:  m_banner
+			processing texture art_mapamericas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_totemsup_6
+		processing begun of material:  m_totemgivaudan
+			processing texture art_totem_givaudan
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_totem_givaudan
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemright_6
+		processing begun of material:  m_totemright
+			processing texture art_extraimage_contentroom_2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_extraimage_contentroom_2
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_6
+		processing begun of material:  m_totemleft
+			processing texture art_extraimage_contentroom_3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_extraimage_contentroom_3
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_map_5
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_7
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_8
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_9
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_10
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_11
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_12
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_1
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_2
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_3
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_4
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_videoout_5
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_7
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_8
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_9
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_10
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_11
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_12
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_1
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_2
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_3
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_4
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_totemsup_1
+		processing begun of material:  m_totembayer
+			processing texture art_totem_bayer
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_totem_bayer
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemsup_2
+		processing begun of material:  m_totemhub
+			processing texture art_totem_hub
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_totem_hub
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemsup_3
+		processing begun of material:  m_totemcoplacana
+			processing texture art_totem_coplacana
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_totem_coplacana
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemsup_4
+		processing begun of material:  m_totemdsm
+			processing texture art_totem_dsm
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_totem_dsm
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemsup_5
+		processing begun of material:  m_totemintegral
+			processing texture art_totem_inte
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_totem_inte
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemleft_1
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_2
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_3
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_4
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_5
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_1
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_2
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_3
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_4
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_5
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  btn_totem_1
+		processing begun of material:  m_arrow
+			processing texture t_arrow_orange
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_arrow_orange
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_2
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_3
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_4
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_5
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_6
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_video
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_6
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_5
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_4
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_3
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_2
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_1
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_7
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_8
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_9
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_10
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_11
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_12
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_audtoroom
+		processing begun of material:  m_buttonlounge
+			processing texture t_room
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_room
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_roomtoaud
+		processing begun of material:  m_buttonaud
+			processing texture t_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_tel_auditorium
+		processing begun of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_room
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_start
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_1
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_2
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_3
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_4
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_5
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_6
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_7
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_8
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_9
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_10
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_11
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_12
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+========= Writing of JSON file started =========
+	writing mesh:  obj_env_1
+	writing mesh:  obj_totem_1
+	writing mesh:  art_flag_4
+	writing mesh:  art_flag_1
+	writing mesh:  art_flag_2
+	writing mesh:  art_flag_3
+	writing mesh:  art_flag_5
+	writing mesh:  art_flag_6
+	writing mesh:  art_welcome
+	writing mesh:  art_banner_1
+	writing mesh:  art_better_3
+	writing mesh:  art_better_2
+	writing mesh:  art_better_1
+	writing mesh:  art_better_4
+	writing mesh:  art_banner_3
+	writing mesh:  art_banner_2
+	writing mesh:  art_video_1
+	writing mesh:  art_video_3
+	writing mesh:  art_video_2
+	writing mesh:  art_videoout_6
+	writing mesh:  art_map_6
+	writing mesh:  art_totemsup_6
+	writing mesh:  art_totemright_6
+	writing mesh:  art_totemleft_6
+	writing mesh:  art_map_5
+	writing mesh:  art_map_7
+	writing mesh:  art_map_8
+	writing mesh:  art_map_9
+	writing mesh:  art_map_10
+	writing mesh:  art_map_11
+	writing mesh:  art_map_12
+	writing mesh:  art_map_1
+	writing mesh:  art_map_2
+	writing mesh:  art_map_3
+	writing mesh:  art_map_4
+	writing mesh:  art_videoout_5
+	writing mesh:  art_videoout_7
+	writing mesh:  art_videoout_8
+	writing mesh:  art_videoout_9
+	writing mesh:  art_videoout_10
+	writing mesh:  art_videoout_11
+	writing mesh:  art_videoout_12
+	writing mesh:  art_videoout_1
+	writing mesh:  art_videoout_2
+	writing mesh:  art_videoout_3
+	writing mesh:  art_videoout_4
+	writing mesh:  art_totemsup_1
+	writing mesh:  art_totemsup_2
+	writing mesh:  art_totemsup_3
+	writing mesh:  art_totemsup_4
+	writing mesh:  art_totemsup_5
+	writing mesh:  art_totemleft_1
+	writing mesh:  art_totemleft_2
+	writing mesh:  art_totemleft_3
+	writing mesh:  art_totemleft_4
+	writing mesh:  art_totemleft_5
+	writing mesh:  art_totemright_1
+	writing mesh:  art_totemright_2
+	writing mesh:  art_totemright_3
+	writing mesh:  art_totemright_4
+	writing mesh:  art_totemright_5
+	writing mesh:  btn_totem_1
+	writing mesh:  btn_totem_2
+	writing mesh:  btn_totem_3
+	writing mesh:  btn_totem_4
+	writing mesh:  btn_totem_5
+	writing mesh:  btn_totem_6
+	writing mesh:  btn_video
+	writing mesh:  btn_totemout_6
+	writing mesh:  btn_totemout_5
+	writing mesh:  btn_totemout_4
+	writing mesh:  btn_totemout_3
+	writing mesh:  btn_totemout_2
+	writing mesh:  btn_totemout_1
+	writing mesh:  btn_totemout_7
+	writing mesh:  btn_totemout_8
+	writing mesh:  btn_totemout_9
+	writing mesh:  btn_totemout_10
+	writing mesh:  btn_totemout_11
+	writing mesh:  btn_totemout_12
+	writing mesh:  btn_audtoroom
+	writing mesh:  btn_roomtoaud
+	writing mesh:  col_tel_auditorium
+	writing mesh:  col_tel_room
+	writing mesh:  col_tel_start
+	writing mesh:  col_tel_totemout_1
+	writing mesh:  col_tel_totemout_2
+	writing mesh:  col_tel_totemout_3
+	writing mesh:  col_tel_totemout_4
+	writing mesh:  col_tel_totemout_5
+	writing mesh:  col_tel_totemout_6
+	writing mesh:  col_tel_totemout_7
+	writing mesh:  col_tel_totemout_8
+	writing mesh:  col_tel_totemout_9
+	writing mesh:  col_tel_totemout_10
+	writing mesh:  col_tel_totemout_11
+	writing mesh:  col_tel_totemout_12
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.5063 secs

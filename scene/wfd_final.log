@@ -1,0 +1,2506 @@
+Exporter version: 2.93.1, Blender version: 2.93.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Caroline Jacomini\Documents\KOSMOS\CENA_WFD\tobabylon\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  obj_floorenv
+		processing begun of material:  m_concrete
+			processing texture t_floor_d
+				texture type:  diffuseTexture, mapped using: "LightMapUV"
+		Custom split normals with tangents being used
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  16
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_env
+		processing begun of material:  m_hdri
+			processing texture t_drivingschool
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_drivingschool
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  1193
+		num normals        :  1193
+		num tangents       :  0
+		num uvs            :  2386
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2112
+	processing begun of mesh:  obj_env_1
+		processing begun of material:  m_concrete
+		processing begun of material:  m_water
+		processing begun of material:  m_grass_b
+		registered as also a user of material:  m_concrete
+			processing texture t_grass_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_grass_d
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  wfd_final.Multimaterial#0
+		num positions      :  414
+		num normals        :  414
+		num tangents       :  0
+		num uvs            :  828
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  186
+	processing begun of mesh:  obj_buildings
+		processing begun of material:  m_window
+		processing begun of material:  m_wall
+		processing begun of material:  m_building
+			processing texture t_building
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_facade
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  wfd_final.Multimaterial#1
+		num positions      :  1063
+		num normals        :  1063
+		num tangents       :  0
+		num uvs            :  2126
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  524
+	processing begun of mesh:  obj_chair_1
+		processing begun of material:  m_wood
+		processing begun of material:  m_metal
+			processing texture t_woodosb
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture t_dirtymetal
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		processing begun of multimaterial:  wfd_final.Multimaterial#2
+		num positions      :  249
+		num normals        :  249
+		num tangents       :  0
+		num uvs            :  498
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  116
+	processing begun of mesh:  obj_chair_2
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_3
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_4
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_5
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_6
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_7
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_8
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_9
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_10
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_11
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_12
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_13
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_14
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_15
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_16
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_17
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_18
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_19
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_20
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_21
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_22
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_23
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_24
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_25
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_26
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_27
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_28
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_29
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_30
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_31
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_32
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_33
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_34
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_35
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_36
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_37
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_38
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_39
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_40
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_41
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_42
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_43
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_44
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_45
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_46
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_47
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_48
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_49
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_50
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_51
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_52
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_53
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_54
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_55
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_56
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_57
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_58
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_59
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_60
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_61
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_62
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_63
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_64
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_65
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_66
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_67
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_68
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_69
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_70
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_71
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_72
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_73
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_74
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_75
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_76
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_77
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_78
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_79
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_80
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_81
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_82
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_83
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_84
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_85
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_86
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_87
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_88
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_89
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_90
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_91
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_92
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_93
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_94
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_95
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_96
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_97
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_98
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_99
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_100
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_101
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_102
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_103
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_104
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_105
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_106
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_107
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_108
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_109
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_110
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_111
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_112
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_113
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_114
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_115
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_116
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_117
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_118
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_119
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_120
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_121
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_122
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_123
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_124
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_125
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_126
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_127
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_128
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_129
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_130
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_131
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_132
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_133
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_134
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_135
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_136
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_137
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_138
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_139
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_140
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_141
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_142
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_143
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_144
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_145
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_146
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_147
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_148
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_149
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_150
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_151
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_152
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_153
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_154
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_155
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_156
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_157
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_158
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_159
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_160
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_161
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_162
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_163
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_164
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_165
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_166
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_167
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_168
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_169
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_170
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_171
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_172
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_173
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_174
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_175
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_176
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_177
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_178
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_179
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_180
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_181
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_182
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_183
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_184
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_185
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_186
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_187
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_188
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_189
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_190
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_191
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_192
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_193
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_194
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_195
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_196
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_197
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_198
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_199
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_200
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_201
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_202
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_203
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_204
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_205
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_206
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_207
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_208
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_209
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_210
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_211
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_212
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_213
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_214
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_215
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_216
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_217
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_218
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_219
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_chair_300
+		mesh is an instance of :  obj_chair_1.  Processing halted.
+	processing begun of mesh:  obj_bench_1
+		processing begun of material:  m_metal
+		processing begun of material:  m_wood
+		registered as also a user of material:  m_metal
+		registered as also a user of material:  m_wood
+		processing begun of multimaterial:  wfd_final.Multimaterial#3
+		num positions      :  796
+		num normals        :  796
+		num tangents       :  0
+		num uvs            :  1592
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  354
+	processing begun of mesh:  obj_bench_2
+		mesh is an instance of :  obj_bench_1.  Processing halted.
+	processing begun of mesh:  obj_bench_3
+		mesh is an instance of :  obj_bench_1.  Processing halted.
+	processing begun of mesh:  obj_bench_4
+		mesh is an instance of :  obj_bench_1.  Processing halted.
+	processing begun of mesh:  obj_bench_5
+		mesh is an instance of :  obj_bench_1.  Processing halted.
+	processing begun of mesh:  obj_bench_6
+		mesh is an instance of :  obj_bench_1.  Processing halted.
+	processing begun of mesh:  obj_bench_7
+		mesh is an instance of :  obj_bench_1.  Processing halted.
+	processing begun of mesh:  obj_bench_8
+		mesh is an instance of :  obj_bench_1.  Processing halted.
+	processing begun of mesh:  obj_bench_9
+		mesh is an instance of :  obj_bench_1.  Processing halted.
+	processing begun of mesh:  obj_planta_1
+		processing begun of material:  m_plant
+		processing begun of material:  m_vase
+			processing texture t_plant_alpha
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  wfd_final.Multimaterial#4
+		num positions      :  593
+		num normals        :  593
+		num tangents       :  0
+		num uvs            :  1186
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  640
+	processing begun of mesh:  obj_planta_2
+		mesh is an instance of :  obj_planta_1.  Processing halted.
+	processing begun of mesh:  obj_totem_1
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  622
+		num normals        :  622
+		num tangents       :  0
+		num uvs            :  1244
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  336
+	processing begun of mesh:  obj_totem_2
+		mesh is an instance of :  obj_totem_1.  Processing halted.
+	processing begun of mesh:  obj_totem_3
+		mesh is an instance of :  obj_totem_1.  Processing halted.
+	processing begun of mesh:  obj_totem_4
+		mesh is an instance of :  obj_totem_1.  Processing halted.
+	processing begun of mesh:  obj_totem_5
+		mesh is an instance of :  obj_totem_1.  Processing halted.
+	processing begun of mesh:  obj_totem_6
+		mesh is an instance of :  obj_totem_1.  Processing halted.
+	processing begun of mesh:  obj_fog_1
+		processing begun of material:  m_glow
+			processing texture t_spotlight_orange
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_spotlight_orange
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  obj_fog_2
+		mesh is an instance of :  obj_fog_1.  Processing halted.
+	processing begun of mesh:  obj_can_1
+		processing begun of material:  m_metal
+		processing begun of material:  m_metal_2
+		registered as also a user of material:  m_metal
+		processing begun of multimaterial:  wfd_final.Multimaterial#5
+		num positions      :  954
+		num normals        :  954
+		num tangents       :  0
+		num uvs            :  1908
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1296
+	processing begun of mesh:  obj_can_2
+		mesh is an instance of :  obj_can_1.  Processing halted.
+	processing begun of mesh:  obj_can_3
+		mesh is an instance of :  obj_can_1.  Processing halted.
+	processing begun of mesh:  obj_can_4
+		mesh is an instance of :  obj_can_1.  Processing halted.
+	processing begun of mesh:  obj_spotlight_1
+		processing begun of material:  m_plastic
+		num positions      :  670
+		num normals        :  670
+		num tangents       :  0
+		num uvs            :  1340
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  446
+	processing begun of mesh:  obj_spotlight_2
+		mesh is an instance of :  obj_spotlight_1.  Processing halted.
+	processing begun of mesh:  obj_sound_1
+		processing begun of material:  m_plastic
+		registered as also a user of material:  m_plastic
+		num positions      :  66
+		num normals        :  66
+		num tangents       :  0
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  obj_sound_2
+		mesh is an instance of :  obj_sound_1.  Processing halted.
+	processing begun of mesh:  obj_sound_3
+		mesh is an instance of :  obj_sound_1.  Processing halted.
+	processing begun of mesh:  obj_sound_4
+		mesh is an instance of :  obj_sound_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_1
+		processing begun of material:  m_bamboo
+			processing texture t_bamboo_n
+				texture type:  bumpTexture, mapped using: "uv"
+			processing texture t_bamboo
+				texture type:  diffuseTexture, mapped using: "uv"
+			processing texture t_bamboo
+				texture type:  specularTexture, mapped using: "uv"
+			processing texture t_bamboo
+				texture type:  value not meaningful 2, mapped using: "uv"
+		Custom split normals with tangents being used
+		num positions      :  70
+		num normals        :  70
+		num tangents       :  280
+		num uvs            :  140
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  obj_bamboo1_2
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_5
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_6
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_7
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_8
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_9
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_10
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_11
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_12
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_13
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_14
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_15
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_16
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_17
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_18
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_19
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_20
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_21
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_22
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_23
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_24
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_25
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_26
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_27
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_28
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_29
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_30
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_31
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_32
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_33
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_34
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_35
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_36
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_37
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_38
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_39
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_40
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_41
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_42
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_43
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_44
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_45
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_46
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_47
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_48
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_49
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_50
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_51
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_52
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_53
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_54
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_55
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_56
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_57
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_58
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_59
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_60
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_61
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_62
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_63
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_64
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_65
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_66
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_67
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_68
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_69
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_70
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_71
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo1_72
+		mesh is an instance of :  obj_bamboo1_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_1
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		Custom split normals with tangents being used
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  480
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  66
+	processing begun of mesh:  obj_bamboo2_2
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_3
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_4
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_5
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_6
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_7
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_8
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_9
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_10
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_11
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_12
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_13
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_14
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_15
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_16
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_17
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_18
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_19
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_21
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_22
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_23
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_24
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_25
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_26
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_27
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_28
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_29
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_30
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_31
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_32
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_33
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_34
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_35
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_36
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_37
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_38
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_39
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_40
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_41
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_42
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_43
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_44
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_45
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_46
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_47
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_48
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_49
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_50
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_51
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_52
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_53
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_54
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_55
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_56
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_57
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_58
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_59
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_60
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_61
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_62
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_63
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_64
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_65
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_66
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_67
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_68
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_69
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_bamboo2_70
+		mesh is an instance of :  obj_bamboo2_1.  Processing halted.
+	processing begun of mesh:  obj_slabtotem
+		processing begun of material:  m_concreteslab
+			processing texture t_slab_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_slab
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  104
+		num normals        :  104
+		num tangents       :  0
+		num uvs            :  208
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  56
+	processing begun of mesh:  obj_palm_2
+		processing begun of material:  m_palmleaf
+		processing begun of material:  m_palmbark
+			processing texture t_palmleaf_d
+				texture type:  diffuseTexture, mapped using: "UV_Texture"
+			processing texture t_palmbark_d
+				texture type:  diffuseTexture, mapped using: "UV_Texture"
+		processing begun of multimaterial:  wfd_final.Multimaterial#6
+		num positions      :  654
+		num normals        :  654
+		num tangents       :  0
+		num uvs            :  1308
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  796
+	processing begun of mesh:  obj_palm_1
+		mesh is an instance of :  obj_palm_2.  Processing halted.
+	processing begun of mesh:  obj_pole_4
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  167
+		num normals        :  167
+		num tangents       :  0
+		num uvs            :  334
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  96
+	processing begun of mesh:  obj_pole_5
+		mesh is an instance of :  obj_pole_4.  Processing halted.
+	processing begun of mesh:  obj_pole_6
+		mesh is an instance of :  obj_pole_4.  Processing halted.
+	processing begun of mesh:  obj_pole_3
+		mesh is an instance of :  obj_pole_4.  Processing halted.
+	processing begun of mesh:  obj_pole_2
+		mesh is an instance of :  obj_pole_4.  Processing halted.
+	processing begun of mesh:  obj_pole_1
+		mesh is an instance of :  obj_pole_4.  Processing halted.
+	processing begun of mesh:  obj_woodfloor
+		processing begun of material:  m_floorwood
+			processing texture t_woodparket_n
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture t_woodparket
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_woodparket_r
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		num positions      :  145
+		num normals        :  145
+		num tangents       :  0
+		num uvs            :  290
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  86
+	processing begun of mesh:  obj_supportflags
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		num positions      :  4304
+		num normals        :  4304
+		num tangents       :  0
+		num uvs            :  8608
+		num uvs2           :  0
+		num colors         :  17216
+		num triangles      :  1952
+	processing begun of mesh:  obj_tentgreen_1
+		processing begun of material:  m_entry
+			processing texture t_sdg
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  68
+		num normals        :  68
+		num tangents       :  0
+		num uvs            :  136
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  96
+	processing begun of mesh:  obj_bambooslab_2
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		num positions      :  806
+		num normals        :  806
+		num tangents       :  0
+		num uvs            :  1612
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  270
+	processing begun of mesh:  obj_tentgreen_2
+		mesh is an instance of :  obj_tentgreen_1.  Processing halted.
+	processing begun of mesh:  obj_bambooslab_4
+		mesh is an instance of :  obj_bambooslab_2.  Processing halted.
+	processing begun of mesh:  obj_bambooarc_1
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		Custom split normals with tangents being used
+		num positions      :  705
+		num normals        :  705
+		num tangents       :  2820
+		num uvs            :  1410
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  396
+	processing begun of mesh:  obj_bambooarc_2
+		mesh is an instance of :  obj_bambooarc_1.  Processing halted.
+	processing begun of mesh:  obj_bambooarc_9
+		mesh is an instance of :  obj_bambooarc_1.  Processing halted.
+	processing begun of mesh:  obj_bambooarc_10
+		mesh is an instance of :  obj_bambooarc_1.  Processing halted.
+	processing begun of mesh:  obj_tentgreen_3
+		mesh is an instance of :  obj_tentgreen_1.  Processing halted.
+	processing begun of mesh:  obj_bambooslab_3
+		mesh is an instance of :  obj_bambooslab_2.  Processing halted.
+	processing begun of mesh:  obj_bambooslab_1
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		num positions      :  1016
+		num normals        :  1016
+		num tangents       :  0
+		num uvs            :  2032
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  392
+	processing begun of mesh:  obj_bambooslab_5
+		mesh is an instance of :  obj_bambooslab_1.  Processing halted.
+	processing begun of mesh:  obj_banner_entry
+		processing begun of material:  m_white
+		num positions      :  80
+		num normals        :  80
+		num tangents       :  0
+		num uvs            :  160
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of mesh:  obj_bamboodoor_1
+		processing begun of material:  m_metal_2
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_metal_2
+		registered as also a user of material:  m_bamboo
+		processing begun of multimaterial:  wfd_final.Multimaterial#7
+		Custom split normals with tangents being used
+		num positions      :  1644
+		num normals        :  1644
+		num tangents       :  6576
+		num uvs            :  3288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  994
+	processing begun of mesh:  obj_bamboodoor_4
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_2
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_3
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_5
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_6
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_7
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_8
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_9
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_bamboodoor_10
+		mesh is an instance of :  obj_bamboodoor_1.  Processing halted.
+	processing begun of mesh:  obj_extraroom
+		processing begun of material:  m_entry
+		processing begun of material:  m_wood
+		registered as also a user of material:  m_entry
+		registered as also a user of material:  m_wood
+		processing begun of multimaterial:  wfd_final.Multimaterial#8
+		num positions      :  226
+		num normals        :  226
+		num tangents       :  0
+		num uvs            :  452
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  128
+	processing begun of mesh:  obj_structurestage
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  537
+		num normals        :  537
+		num tangents       :  0
+		num uvs            :  1074
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  264
+	processing begun of mesh:  obj_truss_auditorium
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		num positions      :  13425
+		num normals        :  13425
+		num tangents       :  0
+		num uvs            :  26850
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6686
+	processing begun of mesh:  obj_truss_auditoriumglass
+		processing begun of material:  m_glass
+		num positions      :  1164
+		num normals        :  1164
+		num tangents       :  0
+		num uvs            :  2328
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  388
+	processing begun of mesh:  obj_stage
+		processing begun of material:  m_floorwood
+		processing begun of material:  m_wood
+		registered as also a user of material:  m_floorwood
+		registered as also a user of material:  m_wood
+		processing begun of multimaterial:  wfd_final.Multimaterial#9
+		num positions      :  243
+		num normals        :  243
+		num tangents       :  0
+		num uvs            :  486
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  127
+	processing begun of mesh:  obj_frame
+		processing begun of material:  m_metal
+		registered as also a user of material:  m_metal
+		num positions      :  126
+		num normals        :  126
+		num tangents       :  0
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  obj_bamboopillar_1
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		Custom split normals with tangents being used
+		num positions      :  70
+		num normals        :  70
+		num tangents       :  280
+		num uvs            :  140
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  obj_bamboopillar_3
+		mesh is an instance of :  obj_bamboopillar_1.  Processing halted.
+	processing begun of mesh:  obj_bamboopillar_2
+		mesh is an instance of :  obj_bamboopillar_1.  Processing halted.
+	processing begun of mesh:  obj_tent_1
+		processing begun of material:  m_entry
+		registered as also a user of material:  m_entry
+		num positions      :  77
+		num normals        :  77
+		num tangents       :  0
+		num uvs            :  154
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  119
+	processing begun of mesh:  obj_tent_2
+		mesh is an instance of :  obj_tent_1.  Processing halted.
+	processing begun of mesh:  obj_bambooarc_3
+		processing begun of material:  m_bamboo
+		registered as also a user of material:  m_bamboo
+		Custom split normals with tangents being used
+		num positions      :  672
+		num normals        :  672
+		num tangents       :  2688
+		num uvs            :  1344
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  290
+	processing begun of mesh:  obj_bambooarc_4
+		mesh is an instance of :  obj_bambooarc_3.  Processing halted.
+	processing begun of mesh:  obj_bambooarc_5
+		mesh is an instance of :  obj_bambooarc_3.  Processing halted.
+	processing begun of mesh:  obj_bambooarc_6
+		mesh is an instance of :  obj_bambooarc_3.  Processing halted.
+	processing begun of mesh:  obj_bambooarc_7
+		mesh is an instance of :  obj_bambooarc_3.  Processing halted.
+	processing begun of mesh:  obj_bambooarc_8
+		mesh is an instance of :  obj_bambooarc_3.  Processing halted.
+	processing begun of mesh:  col_limit
+		processing begun of material:  m_colacess
+			processing texture t_limit_orange
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_limit_orange
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  obj_shader
+		processing begun of material:  m_shaderfloor
+			processing texture t_gradientorange
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  100
+		num normals        :  100
+		num tangents       :  0
+		num uvs            :  200
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  98
+	processing begun of mesh:  obj_shaderalpha
+		processing begun of material:  m_alphafloor
+		num positions      :  55
+		num normals        :  55
+		num tangents       :  0
+		num uvs            :  110
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  obj_innercircle
+		processing begun of material:  m_wfd
+			processing texture t_wfd
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  50
+		num normals        :  50
+		num tangents       :  0
+		num uvs            :  100
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  obj_sdglogo
+		processing begun of material:  m_sdg
+			processing texture t_sdg
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  576
+		num triangles      :  120
+	processing begun of mesh:  art_flag_4
+		processing begun of material:  m_brazilflag
+			processing texture t_fabric_n
+				texture type:  bumpTexture, mapped using: "UVTex"
+			processing texture art_flag_brazil
+				texture type:  diffuseTexture, mapped using: "UVTex"
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_1
+		processing begun of material:  m_brazilflag
+		registered as also a user of material:  m_brazilflag
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_2
+		processing begun of material:  m_brazilflag
+		registered as also a user of material:  m_brazilflag
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_3
+		processing begun of material:  m_brazilflag
+		registered as also a user of material:  m_brazilflag
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_5
+		processing begun of material:  m_brazilflag
+		registered as also a user of material:  m_brazilflag
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_flag_6
+		processing begun of material:  m_brazilflag
+		registered as also a user of material:  m_brazilflag
+		num positions      :  144
+		num normals        :  144
+		num tangents       :  0
+		num uvs            :  288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  242
+	processing begun of mesh:  art_welcome
+		processing begun of material:  m_welcome
+			processing texture art_initialtotem_welcome
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_initialtotem_welcome
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_banner_1
+		processing begun of material:  m_bannerentry
+			processing texture art_banner_entry_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_entry_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_better_3
+		processing begun of material:  m_betterproduction
+			processing texture art_banners_uproom_13
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banners_uproom_13
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  art_better_2
+		processing begun of material:  m_betterlife
+			processing texture art_banners_uproom_14
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banners_uproom_14
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_better_1
+		processing begun of material:  m_betternutrition
+			processing texture art_banners_uproom_12
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banners_uproom_12
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  art_better_4
+		processing begun of material:  m_betterenv
+			processing texture art_banners_uproom_11
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banners_uproom_11
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  art_banner_3
+		processing begun of material:  m_banner_stage
+			processing texture art_banner_stage_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_stage_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_banner_2
+		processing begun of material:  m_entryauditorium
+			processing texture art_banner_bv_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_bv_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  art_video_1
+		processing begun of material:  m_videoleft
+			processing texture art_banner_left_stage_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_left_stage_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  art_video_3
+		processing begun of material:  m_videoright
+			processing texture art_banner_right_stage_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_banner_right_stage_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  0
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6
+	processing begun of mesh:  art_video_2
+		processing begun of material:  m_videostage
+			processing texture art_screenauditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_screenauditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  18
+		num normals        :  18
+		num tangents       :  0
+		num uvs            :  36
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  art_videoout_6
+		processing begun of material:  m_videototem
+			processing texture art_initialtotem_welcome_copy
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_initialtotem_welcome_copy
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_map_6
+		processing begun of material:  m_banner
+			processing texture art_mapamericas
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_totemsup_6
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemright_6
+		processing begun of material:  m_totemright
+			processing texture art_extraimage_contentroom_2
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_extraimage_contentroom_2
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_6
+		processing begun of material:  m_totemleft
+			processing texture art_extraimage_contentroom_3
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture art_extraimage_contentroom_3
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_map_5
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_7
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_8
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_9
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_10
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_11
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_12
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_1
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_2
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_3
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_map_4
+		processing begun of material:  m_banner
+		registered as also a user of material:  m_banner
+		num positions      :  14
+		num normals        :  14
+		num tangents       :  0
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  56
+		num triangles      :  6
+	processing begun of mesh:  art_videoout_5
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_7
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_8
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_9
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_10
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_11
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_12
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_1
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_2
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_3
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_videoout_4
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num triangles      :  2
+	processing begun of mesh:  art_totemsup_1
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemsup_2
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemsup_3
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemsup_4
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemsup_5
+		processing begun of material:  m_videototem
+		registered as also a user of material:  m_videototem
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  0
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  art_totemleft_1
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_2
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_3
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_4
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemleft_5
+		processing begun of material:  m_totemleft
+		registered as also a user of material:  m_totemleft
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_1
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_2
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_3
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_4
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  art_totemright_5
+		processing begun of material:  m_totemright
+		registered as also a user of material:  m_totemright
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  btn_totem_1
+		processing begun of material:  m_arrow
+			processing texture t_arrow_orange
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_arrow_orange
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_2
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_3
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_4
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_5
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totem_6
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_video
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_6
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_audtoroom
+		processing begun of material:  m_buttonlounge
+			processing texture t_room
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_room
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_roomtoaud
+		processing begun of material:  m_buttonaud
+			processing texture t_auditorium
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture t_auditorium
+				texture type:  emissiveTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_5
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_4
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_3
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_2
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_1
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_7
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_8
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_9
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_10
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_11
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  btn_totemout_12
+		processing begun of material:  m_arrow
+		registered as also a user of material:  m_arrow
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  col_floor_contentroom
+		processing begun of material:  m_collisionfloor
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  111
+	processing begun of mesh:  col_wall_contentroom
+		processing begun of material:  m_collisionwall
+		num positions      :  408
+		num normals        :  408
+		num tangents       :  0
+		num uvs            :  816
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  186
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  col_floor_auditorium
+		processing begun of material:  m_collisionfloor
+		registered as also a user of material:  m_collisionfloor
+		num positions      :  17
+		num normals        :  17
+		num tangents       :  0
+		num uvs            :  34
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  15
+	processing begun of mesh:  col_wall_auditorium
+		processing begun of material:  m_collisionwall
+		registered as also a user of material:  m_collisionwall
+		num positions      :  67
+		num normals        :  67
+		num tangents       :  0
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  34
+	processing begun of mesh:  col_alltotem
+		processing begun of material:  m_collisionbutton
+		num positions      :  17
+		num normals        :  17
+		num tangents       :  0
+		num uvs            :  34
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  15
+	processing begun of mesh:  col_videoauditorium
+		processing begun of material:  m_collisionbutton
+		registered as also a user of material:  m_collisionbutton
+		num positions      :  15
+		num normals        :  15
+		num tangents       :  0
+		num uvs            :  30
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  13
+	processing begun of mesh:  col_tel_auditorium
+		processing begun of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_room
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_start
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_1
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_2
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_3
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_4
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_5
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_6
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_7
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_8
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_9
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_10
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_11
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+	processing begun of mesh:  col_tel_totemout_12
+		processing begun of material:  m_teleport
+		registered as also a user of material:  m_teleport
+		num positions      :  3
+		num normals        :  3
+		num tangents       :  0
+		num uvs            :  6
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1
+========= Writing of JSON file started =========
+	writing mesh:  obj_floorenv
+	writing mesh:  obj_env
+	writing mesh:  obj_env_1
+	writing mesh:  obj_buildings
+	writing mesh:  obj_chair_1
+	writing mesh:  obj_bench_1
+	writing mesh:  obj_planta_1
+	writing mesh:  obj_totem_1
+	writing mesh:  obj_fog_1
+	writing mesh:  obj_can_1
+	writing mesh:  obj_spotlight_1
+	writing mesh:  obj_sound_1
+	writing mesh:  obj_bamboo1_1
+	writing mesh:  obj_bamboo2_1
+	writing mesh:  obj_slabtotem
+	writing mesh:  obj_palm_2
+	writing mesh:  obj_pole_4
+	writing mesh:  obj_woodfloor
+	writing mesh:  obj_supportflags
+	writing mesh:  obj_tentgreen_1
+	writing mesh:  obj_bambooslab_2
+	writing mesh:  obj_bambooarc_1
+	writing mesh:  obj_bambooslab_1
+	writing mesh:  obj_banner_entry
+	writing mesh:  obj_bamboodoor_1
+	writing mesh:  obj_extraroom
+	writing mesh:  obj_structurestage
+	writing mesh:  obj_truss_auditorium
+	writing mesh:  obj_truss_auditoriumglass
+	writing mesh:  obj_stage
+	writing mesh:  obj_frame
+	writing mesh:  obj_bamboopillar_1
+	writing mesh:  obj_tent_1
+	writing mesh:  obj_bambooarc_3
+	writing mesh:  col_limit
+	writing mesh:  obj_shader
+	writing mesh:  obj_shaderalpha
+	writing mesh:  obj_innercircle
+	writing mesh:  obj_sdglogo
+	writing mesh:  art_flag_4
+	writing mesh:  art_flag_1
+	writing mesh:  art_flag_2
+	writing mesh:  art_flag_3
+	writing mesh:  art_flag_5
+	writing mesh:  art_flag_6
+	writing mesh:  art_welcome
+	writing mesh:  art_banner_1
+	writing mesh:  art_better_3
+	writing mesh:  art_better_2
+	writing mesh:  art_better_1
+	writing mesh:  art_better_4
+	writing mesh:  art_banner_3
+	writing mesh:  art_banner_2
+	writing mesh:  art_video_1
+	writing mesh:  art_video_3
+	writing mesh:  art_video_2
+	writing mesh:  art_videoout_6
+	writing mesh:  art_map_6
+	writing mesh:  art_totemsup_6
+	writing mesh:  art_totemright_6
+	writing mesh:  art_totemleft_6
+	writing mesh:  art_map_5
+	writing mesh:  art_map_7
+	writing mesh:  art_map_8
+	writing mesh:  art_map_9
+	writing mesh:  art_map_10
+	writing mesh:  art_map_11
+	writing mesh:  art_map_12
+	writing mesh:  art_map_1
+	writing mesh:  art_map_2
+	writing mesh:  art_map_3
+	writing mesh:  art_map_4
+	writing mesh:  art_videoout_5
+	writing mesh:  art_videoout_7
+	writing mesh:  art_videoout_8
+	writing mesh:  art_videoout_9
+	writing mesh:  art_videoout_10
+	writing mesh:  art_videoout_11
+	writing mesh:  art_videoout_12
+	writing mesh:  art_videoout_1
+	writing mesh:  art_videoout_2
+	writing mesh:  art_videoout_3
+	writing mesh:  art_videoout_4
+	writing mesh:  art_totemsup_1
+	writing mesh:  art_totemsup_2
+	writing mesh:  art_totemsup_3
+	writing mesh:  art_totemsup_4
+	writing mesh:  art_totemsup_5
+	writing mesh:  art_totemleft_1
+	writing mesh:  art_totemleft_2
+	writing mesh:  art_totemleft_3
+	writing mesh:  art_totemleft_4
+	writing mesh:  art_totemleft_5
+	writing mesh:  art_totemright_1
+	writing mesh:  art_totemright_2
+	writing mesh:  art_totemright_3
+	writing mesh:  art_totemright_4
+	writing mesh:  art_totemright_5
+	writing mesh:  btn_totem_1
+	writing mesh:  btn_totem_2
+	writing mesh:  btn_totem_3
+	writing mesh:  btn_totem_4
+	writing mesh:  btn_totem_5
+	writing mesh:  btn_totem_6
+	writing mesh:  btn_video
+	writing mesh:  btn_totemout_6
+	writing mesh:  btn_audtoroom
+	writing mesh:  btn_roomtoaud
+	writing mesh:  btn_totemout_5
+	writing mesh:  btn_totemout_4
+	writing mesh:  btn_totemout_3
+	writing mesh:  btn_totemout_2
+	writing mesh:  btn_totemout_1
+	writing mesh:  btn_totemout_7
+	writing mesh:  btn_totemout_8
+	writing mesh:  btn_totemout_9
+	writing mesh:  btn_totemout_10
+	writing mesh:  btn_totemout_11
+	writing mesh:  btn_totemout_12
+	writing mesh:  col_floor_contentroom
+	writing mesh:  col_wall_contentroom
+	writing mesh:  col_floor_auditorium
+	writing mesh:  col_wall_auditorium
+	writing mesh:  col_alltotem
+	writing mesh:  col_videoauditorium
+	writing mesh:  col_tel_auditorium
+	writing mesh:  col_tel_room
+	writing mesh:  col_tel_start
+	writing mesh:  col_tel_totemout_1
+	writing mesh:  col_tel_totemout_2
+	writing mesh:  col_tel_totemout_3
+	writing mesh:  col_tel_totemout_4
+	writing mesh:  col_tel_totemout_5
+	writing mesh:  col_tel_totemout_6
+	writing mesh:  col_tel_totemout_7
+	writing mesh:  col_tel_totemout_8
+	writing mesh:  col_tel_totemout_9
+	writing mesh:  col_tel_totemout_10
+	writing mesh:  col_tel_totemout_11
+	writing mesh:  col_tel_totemout_12
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.7619 secs
