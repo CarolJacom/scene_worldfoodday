@@ -23,6 +23,8 @@ var createScene = function () {
   var camera = createFreeCamera(scene);
   /* Collisions */
   scene.collisionsEnabled = false;
+  let getArrow = scene.getMeshByName("btn_totem_1");
+   getArrow.billboardMode = BABYLON.Mesh.BILLBOARDMODE_ALL;
 
   // import scene
   BABYLON.SceneLoader.ShowLoadingScreen = false;
@@ -52,9 +54,6 @@ function createFreeCamera(scene) {
 
   camera.position = new BABYLON.Vector3(0, 1.7, -46);
   camera.rotation = new BABYLON.Vector3( 0, 0, 0);
-  
-  let getArrow = scene.getMeshByName("btn_totem_1"); // Get btn totem 8
-    getArrow.billboardMode = BABYLON.Mesh.BILLBOARDMODE_ALL;
   
   return camera;
 }
