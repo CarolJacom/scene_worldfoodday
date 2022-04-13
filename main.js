@@ -23,6 +23,10 @@ var createScene = function () {
   var camera = createFreeCamera(scene);
   /* Collisions */
   scene.collisionsEnabled = false;
+  
+  function BillBlender(scene){
+  var btn_totem = scene.getMeshByName("btn_totem_1");
+   btn_totem.billboardMode = BABYLON.Mesh.BILLBOARDMODE_Y;
 
   // import scene
   BABYLON.SceneLoader.ShowLoadingScreen = false;
@@ -31,8 +35,7 @@ var createScene = function () {
     scene.activeCamera = camera;
     scene.gravity = new BABYLON.Vector3(0, -0.1, 0);
     scene.fogMode = BABYLON.Scene.FOGMODE_NONE;
-    var getArrow = scene.getMeshByName("btn_totem_1");
-   getArrow.billboardMode = BABYLON.Mesh.BILLBOARDMODE_ALL;
+    BillBlender(scene);
     return scene;
 }
 
